@@ -103,9 +103,7 @@ body {
 .brands{
     max-width: 150px;;
 }
-
-.no-padding .calendly-inline-widget iframe {
-    padding: 0;
-    background-color: black;
+.testi {
+ max-width: 300px;
 }
 
